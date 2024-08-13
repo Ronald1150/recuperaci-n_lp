@@ -1,9 +1,9 @@
 # Tipos de Datos
-1. Números enteros (int): Representan valores numéricos enteros sin decimales. Por ejemplo, `1, 2, 3, 4, 5`.
-2. Números de punto flotante (float): Representan valores numéricos con decimales. Por ejemplo, `3.14, 2.718`.
-3. Cadenas de texto (str): Representan secuencias de caracteres, como palabras, frases o incluso números escritos como texto. Por ejemplo, `Hola, mundo`.
-4. Booleanos (bool): Representan valores de verdadero o falso. Pueden ser True o False.
-5. Listas (list): Representan colecciones ordenadas de elementos. Por ejemplo, `1, 2, 3`.
+1. Números enteros `int`: Representan valores numéricos enteros sin decimales. Por ejemplo, `1, 2, 3, 4, 5`.
+2. Números de punto flotante `float`: Representan valores numéricos con decimales. Por ejemplo, `3.14, 2.718`.
+3. Cadenas de texto `str`: Representan secuencias de caracteres, como palabras, frases o incluso números escritos como texto. Por ejemplo, `Hola, mundo`.
+4. Booleanos `bool`: Representan valores de verdadero o falso. Pueden ser True o False.
+5. Listas `list`: Representan colecciones ordenadas de elementos. Por ejemplo, `1, 2, 3`.
 
 ## Variables
  Las variables son contenedores que nos permiten almacenar y manipular valores en nuestros programas. Cada variable tiene un nombre y puede contener diferentes tipos de datos, como números enteros, números de punto flotante, cadenas de texto, booleanos y más.
