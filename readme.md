@@ -8,10 +8,13 @@
 ## Variables
  Las variables son contenedores que nos permiten almacenar y manipular valores en nuestros programas. Cada variable tiene un nombre y puede contener diferentes tipos de datos, como números enteros, números de punto flotante, cadenas de texto, booleanos y más.
  ejemplo
+ ```python
+Python
  edad = 30
  altura = 1.75
  nombre = "Juan"
  es_estudiante = True
+ ```
 
 ## Controles de flujo
 El control de flujo en Python se refiere a la capacidad de un programa para tomar decisiones y ejecutar diferentes acciones según ciertas condiciones. Es como las carreteras y señales de tráfico que guían el flujo de ejecución de un programa.
